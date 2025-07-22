@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 REM === CONFIGURAÇÕES ===
-set "REPO_URL=https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git"
+set "REPO_URL=https://github.com/warlesson/INVEST-FIIs.git"
 set "BRANCH=main"
 
 REM === INÍCIO ===
