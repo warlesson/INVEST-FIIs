@@ -1,0 +1,86 @@
+***Fundos Imobiliários (FIIs) cotas isento de IR para pessoa física.
+	IIs são investimentos em imóveis (shoppings, galpões, hospitais etc.) negociados na bolsa como ações
+
+
+***Como investir (resumido):
+Abra conta em corretora (XP, NuInvest, Clear, etc.)
+Pesquise FIIs no site FundsExplorer ou Status Invest
+
+***Dividend Yield (quanto paga por mês) – ideal: acima de 0,8% ao mês
+
+***Vacância (imóveis vazios) – ideal: abaixo de 10%
+
+***Liquidez (volume negociado diário)
+
+***📌 Dicas rápidas:
+Invista em pelo menos 5 FIIs diferentes (diversificação)
+Reinvista os aluguéis recebidos para acelerar crescimento
+Foque no longo prazo (mínimo 2 anos)
+Comece com pouco: R$100 já dá pra começar
+
+✅ 1.(DY) DY constante, entre 0,8% a 1,2%
+
+✅ 2. Vacância: (<10%) 
+
+✅ 3. P/VP: próximo de 1 com bons fundamentos.
+
+✅ 4. Gestão do Fundo: Gestoras sólidas e taxa de gestão menor que 1,2% ao ano.
+
+✅ 5. Liquidez: fundos com mais de R$ 500 mil por dia em negociações.
+
+✅ 6. Histórico de pagamentos: Veja os últimos 12 meses de pagamentos mensais.
+    • Rendimento consistente e estável mostra qualidade e solidez.
+
+Fundos, 
+Setor, 
+Liquidez Diária (R$),
+Preço da cota, 
+P/VP,
+Dividend Yield,
+Vacância,
+Gestão,
+Taxa de gestão, 
+Variação Preço, 
+Patrimônio Líquido, 
+Num. Cotistas 
+
+Fundos: qual fundo
+Setor: logistica, shopping, papel ect;
+Liquidez Diária (R$): (cotistas + volume em reais) mais de R$ 500 mil por dia em negociações;
+Preço da cota: preço atual da cota;
+P/VP: P/VP próximo de 1 com bons fundamentos
+    • P/VP = 1 → preço = valor justo
+    • P/VP > 1 → fundo está caro
+    • P/VP < 1 → pode estar barato (mas cuidado com a qualidade);
+Dividend Yield: DY constante, entre 0,6% a 1,2% ao mês é saudável;
+Vacância: vacância baixa (<10%)
+Gestão: BTG, Kinea, Vinci, XP melhores
+Taxa de gestão: (acima de 1,5% não comprar) menor que 1,2% ao ano comprar
+Variação Preço, 
+Patrimônio Líquido, 
+Num. Cotistas .
+
+
+Código
+
+Setor
+
+Preço
+
+P/VP
+
+Dividend Yield
+
+Vacância
+
+Liquidez Diária
+
+Taxa de Gestão
+
+Patrimônio Líquido
+
+Nº de Cotistas
+
+Variação no Mês, 12 meses, etc.
+
+
